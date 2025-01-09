@@ -83,6 +83,10 @@ input:focus {
   margin-bottom: -20px;
 }
 
+.grid-container i:hover{
+    color: orangered;
+}
+
 .grid-container > div h3 {
   font-size: 20px;
   margin: 10px 0;
